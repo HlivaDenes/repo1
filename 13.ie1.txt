@@ -1,0 +1,15 @@
+1	Dr. Ónodi-Szabó Ádám	1984. 12. 18.	Kollár Márta	2019. 02. 06.	
+2	Gáspár Ádám	1993. 09. 15.	Molnár Krisztina Andrea	2019. 02. 06.	
+3	Korom Csaba	1988. 11. 11.	Bódis Mária	2019. 02. 06.	
+4	Nagy Gyula	1976. 09. 14.	Fücsök Angéla Klára	2019. 02. 06.	
+5	Nagy Kristóf Sándor	1996. 03. 03.	Fodor Margit	2019. 02. 06.	
+6	Pálóczi Bence	1993. 10. 07.	Vegera Ibolya	2019. 02. 06.	
+7	Papp Nóra	1996. 12. 11.	Rózsa Györgyi	2019. 02. 06.	
+8	Rónaki Gábor	1985. 01. 24.	Nagypál Eszter Zsuzsanna	2019. 02. 06.	
+9	Rudolf Rebeka Sára	1990. 03. 31.	Tubák Annamária	2019. 02. 06.	
+10	Simon Péter	1977. 02. 08.	Mezõ Katalin	2019. 02. 06.	
+11	Sós Áron Árpád	1994. 01. 06.	Barna Erzsébet	2019. 02. 06.	
+12	Sréder Gábor	1981. 04. 14.	Albinyi Erzsébet	2019. 02. 06.	
+13	Takács Attila Antal	1976. 03. 21.	Kapu Hedvig Margit	2019. 02. 06.	
+14	Tormás Zsolt	1980. 06. 04.	Semegi Piroska	2019. 02. 06.	
+15	Tóth Szabolcs	1990. 12. 27.	Nagy Judit Mária	2019. 02. 06.
